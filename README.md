@@ -24,7 +24,7 @@
 
 ### 🧰 Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,rider,postman,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,rider,postman,swagger,docker,git,github" />
 </p>
 
 ---
