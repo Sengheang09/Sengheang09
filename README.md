@@ -1,7 +1,7 @@
 # Hi there, I'm Leum Sengheang 👋
 
 <p align="center">
-  <img src="YOUR_UPLOADED_ROBOT_GIF_URL" width="600" alt="Interactive 3D Robot Animation" />
+  <img src="./robot.gif" width="600" alt="Interactive 3D Robot Animation" />
 </p>
 
 <p align="center">
