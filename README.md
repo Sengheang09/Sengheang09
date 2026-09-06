@@ -14,7 +14,7 @@
 
 ###  Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,mysql,postgres,mongodb,redis" />
 </p>
 
 ###  Cloud & BaaS (Backend-as-a-Service)
